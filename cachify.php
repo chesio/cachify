@@ -40,6 +40,7 @@ define( 'CACHIFY_FILE', __FILE__ );
 define( 'CACHIFY_DIR', dirname( __FILE__ ) );
 define( 'CACHIFY_BASE', plugin_basename( __FILE__ ) );
 define( 'CACHIFY_CACHE_DIR', WP_CONTENT_DIR . '/cache/cachify' );
+define( 'CACHIFY_VERSION', '2.3.0-dev' );
 
 
 /* Hooks */
